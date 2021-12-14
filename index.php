@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <title>Self.LK</title>
+    <!-- Favicon -->
+    <link rel="shortcut icon" type="image/icon" href="assets/images/favicon.png"/>
+    <!-- Font Awesome -->
+    <link href="assets/css/font-awesome.css" rel="stylesheet">
+    <!-- Bootstrap -->
+    <link href="assets/css/bootstrap.css" rel="stylesheet">    
+    <!-- Slick slider -->
+    <link rel="stylesheet" type="text/css" href="assets/css/slick.css"/> 
+    <!-- Fancybox slider -->
+    <link rel="stylesheet" href="assets/css/jquery.fancybox.css" type="text/css" media="screen" /> 
+    <!-- Animate css -->
+    <link rel="stylesheet" type="text/css" href="assets/css/animate.css"/> 
+    <!-- Progress bar  -->
+    <link rel="stylesheet" type="text/css" href="assets/css/bootstrap-progressbar-3.3.4.css"/> 
+     <!-- Theme color -->
+    <link id="switcher" href="assets/css/theme-color/green-theme.css" rel="stylesheet">
+
+    <!-- Main Style -->
+    <link href="style.css" rel="stylesheet">
+
+    <style type="text/css">
+      
+      .navbar-brand > img {
+    display: block;
+    margin-top: -15px;
+    width: 230px;
+}
+
+    </style>
+
+    <!-- Fonts -->
+
+    <!-- Open Sans for body font -->
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+    <!-- Lato for Title -->
+    <link href='https://fonts.googleapis.com/css?family=Lato' rel='stylesheet' type='text/css'>    
+  </head>
+  <body>
+  
+  <!-- BEGAIN PRELOADER -->
+
+  <!-- END PRELOADER -->
+
+  <!-- SCROLL TOP BUTTON -->
+  <a class="scrollToTop" href="#"><i class="fa fa-angle-up"></i></a>
+  <!-- END SCROLL TOP BUTTON -->
+
+  <!-- Start header -->
+  <header id="header">
+
+  
+    <!-- header bottom -->
+    <div class="header-bottom">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-6 col-sm-6 col-xs-6">
+            <div class="header-contact">
+              <ul>
+                <li>
+                  <div class="phone">
+                    <i class="fa fa-phone"></i>
+                    0785285403
+                  </div>
+                </li>
+                <li>
+                  <div class="mail">
+                    <i class="fa fa-envelope"></i>
+                    selfemployee2019@gmail.com
+                  </div>
+                </li>
+              </ul>
+            </div>
+          </div>
+          <div class="col-md-6 col-sm-6 col-xs-6">
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+  <!-- End header -->
+  
+  <!-- Start login modal window -->
+ 
+  <!-- End login modal window -->
+
+  <!-- BEGIN MENU -->
+  <section id="menu-area">      
+    <nav class="navbar navbar-default" role="navigation">  
+      <div class="container">
+        <div class="navbar-header">
+          <!-- FOR MOBILE VIEW COLLAPSED BUTTON -->
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <!-- LOGO -->              
+            
+          <!-- IMG BASED LOGO  -->
+           <a class="navbar-brand" href="index.php"><img src="assets/images/logo4.PNG" alt="logo"style="border-radius:15px;"></a>
+        </div>
+        <div id="navbar" class="navbar-collapse collapse">
+          <ul id="top-menu" class="nav navbar-nav navbar-right main-nav">
+            <!--<li class="active"><a href="index1.php">Home</a></li>-->
+            <li><a href="about-us.php">About Us</a></li>
+            <li><a href="products.php">Products</a></li>
+            <li><a href="CreateAccount.php">Create Account</a></li>
+             <li ><a href="addindex.php">My Account</a></li>
+              <li>
+                <div class="blog-news-details">
+                  <a class="btn btn-lg btn-success btn-block" href="addindex.php">ADD PRODUCT </a>
+                </div>
+              </li>
+          </ul>                     
+        </div><!--/.nav-collapse -->
+      </div>     
+    </nav>
+  </section>
+      <div class="single-slide">
+        <img src="assets/images/cover02.JPG" alt="img">
+      </div>
+  </section>
+  <!-- End slider -->
+
+  
+  <!-- Start Service -->
+  <section id="service">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+
+
+    <div class="title-area">
+            <h2 class="title">අලුතෙන් සිතන්න සුළුවෙන් අරඹන්න
+            </h2>
+
+            <span class="line"></span>
+            <p class="text-justify">බොහෝ අය සිතන්නේ ව්‍යාපාර ආරම්භ කිරීමට නම් විශාල මුදලක් අවශ්‍ය බවයි. කොපමණ මුදලක් අවශ්‍ය වුවත් එම අරමුදල් උපායශීලීව සපයා ගැනීමට ඔබ සමත් විය යුතු ය‍. ඒ සඳහා ඔබ කළයුත්තේ නව ආකාරයකින් ව්‍යාපාර කටයුත්ත කරන්නේ කෙසේද යන්න සිතා බලා ගැටලු මතුවිය හැකි තැන් පවතී නම් ඒ සඳහා අවශ්‍ය හොඳම පිළිතුර කුමක්ද යන්න ඔබ විසින් ම තීරණය කිරීමයි.
+             </p>
+    </div>
+
+          
+    <div class="title-area">
+            <h2 class="title">ව්‍යාපාරික සැලැස්ම
+            </h2>
+
+            <span class="line"></span>
+            <p class="text-justify">දැන් ඔබට ඔබගේ ව්‍යාපාර කටයුත්ත ආරම්භ කිරීමට නියමිත සැලසුමක් ඇත. ඒ සඳහා අවශ්‍ය අමුද්‍රව්‍ය ද අවශ්‍ය උපකරණ ද ඔබ සතුව ඇත. එය අලෙවි කරනු ලබන්නේ කෙසේද යන්න පිළිබඳවත් ඔබ තුළ අවබෝධයක් ඇත. දැන් ඔබට ව්‍යාපාරය ආරම්භ කළ හැකි ය. වෙළෙඳපොළ තුළ දිගටම රැඳිය හැකි මිලක් ඔබ විසින් තීරණය කළ කළ යුතු වේ. මෙහිදී ඔබට දැරීමට සිදුවූ පිරිවැය හා ඔබ විසින් අපේක්ෂිත ලාභය ද සැලකිල්ලට ගෙන භාණ්ඩයේ මිල ලකුණු කළ යුතු වේ.
+             </p>
+    </div>
+
+      
+
+
+      <div class="title-area">
+            <h2 class="title">කැමැත්ත</h2>
+
+            <span class="line"></span>
+            <p class="text-justify">පළමුව ඔබට ව්‍යාපාරයක් ආරම්භ කිරීමට කැමැත්තක් තිබිය යුතු ය. ඉන්පසු ඔබ විසින් ආරම්භ කරන ව්‍යාපාරය පිළිබඳව පැහැදිලි තීරණයකට එළැඹිය යුතු ය. මෙහිදී ඔබ සතු කුසලතා සහ කැමැත්ත යනාදිය ද සැලකිල්ලට ගත යුතු ය. එම කැමැත්ත දක්ෂතා සහ අත්දැකීම් උපරිම වශයෙන් යොදාගත හැකි ව්‍යාපාරික කටයුත්තක් සඳහා අවධානය යොමු කළහොත් එහි ඇති වැදගත්කම වන්නේ ඒ සඳහා අමතර පිරිවැයක් දැරීමට සිදු නොවීමයි. උදාහරණයක් ලෙස ඔබට ඉදල් නිෂ්පාදනය පිළිබඳ අවබෝධයක් තිබේ නම් මූලික වශයෙන් ඔබ අවධානය යොමු කළ යුත්තේ ඉදල් නිෂ්පාදනය කිරීම කෙරෙහි ය. ක්‍රම ක්‍රමයෙන් ව්‍යාපාරය පුළුල් කරන විට අමතර සේවකයින් ද බඳවා ගැනීමට ඔබට හැකිවේ. මෙහිදී අවධානය යොමු කළයුතු අනෙක් කරුණ වන්නේ ඔබ තීරණය කළ නිෂ්පාදන කටයුත්තට ඇති වෙළෙඳපොළ ඉල්ලුමය. කිසිවිටෙකත් වෙළෙඳපො‍ෙළහි ඉල්ලුමක් නොමැති නිෂ්පාදනයක් සිදු කළහොත් සිදු වන්නේ ව්‍යාපාරය ආරම්භ කළ විගසම වසා දැමීමට සිදුවීමයි.<br><br>
+
+බොහෝ ව්‍යාපාරිකයින් ගේ ව්‍යාපාර අසාර්ථක වීමට හේතුව වන්නේ වෙළෙඳ පොළ සමීක්ෂණයක් සිදු නොකර ව්‍යාපාර ආරම්භ කිරීමයි. තමාගේ කැමැත්ත, දක්ෂතාවය, පමණක් ම නොව වෙළෙඳ පොළ තුළ අපට තිබෙන ව්‍යාපාරික අවස්ථා මොනවාද යන්න පිළිබඳවද ඔබට මනා අවබෝධයක් තිබිය යුතු ය. ඒ සඳහා ඔබ කළ යුත්තේ වෙළෙඳපොළ තුළ පාරිභෝගිකයාගේ හැසිරීම නිරීක්ෂණය කිරීමයි. එනම් ඔවුන් මිලදී ගැනීමට අපේක්ෂා කරන භාණ්ඩය වෙළෙඳපොළ තුළ නොමැති නම් ඒ සඳහා පාරිභෝගිකයා තෝරා ගනු ලබන විකල්ප භාණ්ඩය කුමක්ද? එම විකල්ප භාණ්ඩය පිළිබඳ පාරිභෝගිකයා 100% තෘප්තිමත්ද? එසේ තෘප්තිමත් නොවන්නේ නම් එතැන ඔබට හොඳ ව්‍යාපාරික අවස්ථාවක් ඇත.
+</p>
+          </div>
+                    <div class="title-area">
+            <h2 class="title">ඉල්ලුම
+</h2>
+
+
+
+
+
+            <span class="line"></span>
+            <p class="text-justify">එහිදී පාරිභෝගිකයා අපේක්ෂා කරන භාණ්ඩය ඔබට නිෂ්පාදනය කර වෙළෙඳපොළට ඉදිරිපත් කළ හැකි ය. මෙහිදී එය නිෂ්පාදනය කරන්නේ කෙසේද එය වෙළෙඳ පොළට ඉදිරිපත් කරන්නේ කෙසේද? සහ නිෂ්පාදනය කටයුත්ත ආරම්භ කිරීම සඳහා අරමුදල් සම්පාදනය කරන්නේ කෙසේද? යනාදී ගැටලු රාශියකට මුහුණ දෙන්නට සිදුවේ.<br><br>
+
+මෙහිදී ඔබ කළයුත්තේ ව්‍යාපාරික සැලසුමක් පිළියෙළ කිරීමයි. එම සැලසුම තුළ ඔබ නිපදවන භාණ්ඩය කුමක්ද? එය නිෂ්පාදනය කිරීමට අවශ්‍ය ගුණාත්මක අමුද්‍රව්‍ය ලබාගන්නේ කෙසේද? අමුද්‍රව්‍යවල මිල ගණන් කෙසේද යනාදී කරුණු පමණක් නොව නිෂ්පාදන කටයුතු සිදු කළ පසු අලෙවි කටයුතු සඳහා ගනුලබන ක්‍රියාමාර්ග කෙරෙහි ද අවධානය යොමු කළ යුතු ය. මෙහිදී ප්‍රචාරක කටයුතු සිදු කරන ආකාරය ඔබ එය නිපදවනු ලබන තත්ත්වය මත තීරණය වේ.
+</p>
+          </div>
+
+
+
+
+         <div class="title-area">
+            <h2 class="title">ව්‍යාපාර ලියාපදිංචිය</h2>
+            <span class="line"></span>
+            <p class="text-justify">අනෙක් කරුණ වන්නේ දෛනිකව ඔබට එකතුවන මුදල් මනා පාලනයකින් යුතුව පරිහරණය කිරීමයි. කිසිදු විටෙක ව්‍යාපාරය සතු මුදල් ඔබගේ පුද්ගලික පරිහරණයට නොගත යුතු වේ. බොහෝ ව්‍යාපාරිකයින් ව්‍යාපාරයේ මුදල් පෞද්ගලික පරිහරණයට ගැනීම තුළින් ව්‍යාපාරය කරගෙන යාමට අවශ්‍ය කරන ප්‍රාග්ධනය නොමැති වීම මත ව්‍යාපාරය වසා දමා ඇති අවස්ථා ඕනෑතරම් අසන්නට ඇත. එහෙයින් ඔබ හදිසි අවශ්‍යතාවයත් මත ව්‍යාපාරයෙන් මුදලක් ලබාගත්ත ද එය සටහන් කර තබා නැවත එය ව්‍යාපාරයට යෙදිය යුතු ය.
+                </p>
+          </div>          
+
+
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- End Service -->
+
+ 
+  
+  
+ 
+
+  <!-- Start footer -->
+  <footer id="footer">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-6 col-sm-6">
+          <div class="footer-left">            
+            <p>Copyright © 2019 DEV@chaMika All Rights Reserved.</p>
+          </div>
+        </div>
+        <div class="col-md-6 col-sm-6">
+          <div class="footer-right">
+            <a href="index.html"><i class="fa fa-facebook"></i></a>
+            <a href="#"><i class="fa fa-twitter"></i></a>
+            <a href="#"><i class="fa fa-google-plus"></i></a>
+            <a href="#"><i class="fa fa-linkedin"></i></a>
+            <a href="#"><i class="fa fa-pinterest"></i></a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </footer>
+  <!-- End footer -->
+
+  <!-- jQuery library -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>    
+  <!-- Include all compiled plugins (below), or include individual files as needed -->
+  <!-- Bootstrap -->
+  <script src="assets/js/bootstrap.js"></script>
+  <!-- Slick Slider -->
+  <script type="text/javascript" src="assets/js/slick.js"></script>    
+  <!-- mixit slider -->
+  <script type="text/javascript" src="assets/js/jquery.mixitup.js"></script>
+  <!-- Add fancyBox -->        
+  <script type="text/javascript" src="assets/js/jquery.fancybox.pack.js"></script>
+ <!-- counter -->
+  <script src="assets/js/waypoints.js"></script>
+  <script src="assets/js/jquery.counterup.js"></script>
+  <!-- Wow animation -->
+  <script type="text/javascript" src="assets/js/wow.js"></script> 
+  <!-- progress bar   -->
+  <script type="text/javascript" src="assets/js/bootstrap-progressbar.js"></script>  
+  
+ 
+  <!-- Custom js -->
+  <script type="text/javascript" src="assets/js/custom.js"></script>
+  
+  </body>
+</html>
